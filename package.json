@@ -1,0 +1,28 @@
+{
+  "name": "atlasbuilder",
+  "version": "0.1.0",
+  "description": "Node interface for the atlasbuilder tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteward44/atlasbuilder-npm.git"
+  },
+  "keywords": [
+    "atlasbuilder",
+    "atlas",
+    "sprite",
+    "sprites",
+    "texture",
+    "textures",
+    "games"
+  ],
+  "author": "Pete Ward <peteward44@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peteward44/atlasbuilder-npm/issues"
+  },
+  "homepage": "https://github.com/peteward44/atlasbuilder-npm#readme"
+}
